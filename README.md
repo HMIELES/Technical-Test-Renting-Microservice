@@ -97,8 +97,4 @@ Las pruebas se ejecutan automáticamente al correr `docker compose build`. Se es
 Este microservicio fue desarrollado como parte de una prueba técnica. 
 Cumple con todos los requisitos de contenedorización, pruebas automáticas y buenas prácticas de arquitectura.
 
-Desarrollado por [Tu Nombre].
-
----
-
-¿Dudas o sugerencias? ¡Contribuciones y mejoras son bienvenidas!
+Desarrollado por **Himer Alberto Mieles**.
