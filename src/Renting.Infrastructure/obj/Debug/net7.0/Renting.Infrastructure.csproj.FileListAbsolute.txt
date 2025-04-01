@@ -1,0 +1,17 @@
+C:\Users\miele\Documents\Documents to Prepare Interviews\Lean Improvements\renting-microservice\src\Renting.Infrastructure\bin\Debug\net7.0\Renting.Infrastructure.deps.json
+C:\Users\miele\Documents\Documents to Prepare Interviews\Lean Improvements\renting-microservice\src\Renting.Infrastructure\bin\Debug\net7.0\Renting.Infrastructure.dll
+C:\Users\miele\Documents\Documents to Prepare Interviews\Lean Improvements\renting-microservice\src\Renting.Infrastructure\bin\Debug\net7.0\Renting.Infrastructure.pdb
+C:\Users\miele\Documents\Documents to Prepare Interviews\Lean Improvements\renting-microservice\src\Renting.Infrastructure\bin\Debug\net7.0\Renting.Application.dll
+C:\Users\miele\Documents\Documents to Prepare Interviews\Lean Improvements\renting-microservice\src\Renting.Infrastructure\bin\Debug\net7.0\Renting.Domain.dll
+C:\Users\miele\Documents\Documents to Prepare Interviews\Lean Improvements\renting-microservice\src\Renting.Infrastructure\bin\Debug\net7.0\Renting.Application.pdb
+C:\Users\miele\Documents\Documents to Prepare Interviews\Lean Improvements\renting-microservice\src\Renting.Infrastructure\bin\Debug\net7.0\Renting.Domain.pdb
+C:\Users\miele\Documents\Documents to Prepare Interviews\Lean Improvements\renting-microservice\src\Renting.Infrastructure\obj\Debug\net7.0\Renting.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\miele\Documents\Documents to Prepare Interviews\Lean Improvements\renting-microservice\src\Renting.Infrastructure\obj\Debug\net7.0\Renting.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miele\Documents\Documents to Prepare Interviews\Lean Improvements\renting-microservice\src\Renting.Infrastructure\obj\Debug\net7.0\Renting.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\miele\Documents\Documents to Prepare Interviews\Lean Improvements\renting-microservice\src\Renting.Infrastructure\obj\Debug\net7.0\Renting.Infrastructure.AssemblyInfo.cs
+C:\Users\miele\Documents\Documents to Prepare Interviews\Lean Improvements\renting-microservice\src\Renting.Infrastructure\obj\Debug\net7.0\Renting.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\miele\Documents\Documents to Prepare Interviews\Lean Improvements\renting-microservice\src\Renting.Infrastructure\obj\Debug\net7.0\Renting.Infrastructure.csproj.CopyComplete
+C:\Users\miele\Documents\Documents to Prepare Interviews\Lean Improvements\renting-microservice\src\Renting.Infrastructure\obj\Debug\net7.0\Renting.Infrastructure.dll
+C:\Users\miele\Documents\Documents to Prepare Interviews\Lean Improvements\renting-microservice\src\Renting.Infrastructure\obj\Debug\net7.0\refint\Renting.Infrastructure.dll
+C:\Users\miele\Documents\Documents to Prepare Interviews\Lean Improvements\renting-microservice\src\Renting.Infrastructure\obj\Debug\net7.0\Renting.Infrastructure.pdb
+C:\Users\miele\Documents\Documents to Prepare Interviews\Lean Improvements\renting-microservice\src\Renting.Infrastructure\obj\Debug\net7.0\ref\Renting.Infrastructure.dll

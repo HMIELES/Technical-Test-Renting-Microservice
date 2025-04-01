@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Renting.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Renting.Application": "1.0.0",
+          "Renting.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Renting.Infrastructure.dll": {}
+        }
+      },
+      "Renting.Application/1.0.0": {
+        "dependencies": {
+          "Renting.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Renting.Application.dll": {}
+        }
+      },
+      "Renting.Domain/1.0.0": {
+        "runtime": {
+          "Renting.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Renting.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Renting.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Renting.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
