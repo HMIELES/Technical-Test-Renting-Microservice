@@ -17,8 +17,7 @@
 .vs/
 *.csproj.user
 
-# Docker artifacts
-**/Dockerfile
+# Docker override file (opcional, no afecta la build principal)
 docker-compose.override.yml
 
 # Test artifacts
